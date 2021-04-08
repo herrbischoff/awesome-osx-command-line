@@ -2551,6 +2551,18 @@ chsh -s $(brew --prefix)/bin/fish
   Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS
   X.
 
+#### xonsh
+Install the latest version using Homebrew (or [other methods](https://xon.sh/packages.html)):
+```sh
+brew install xonsh
+```
+- [Homepage](https://xon.sh/contents.html) - Xonsh is a Python-powered, cross-platform, 
+  Unix-gazing shell language and command prompt.
+- [Tutorial](https://xon.sh/tutorial.html) - Step by step introduction to xonsh.
+- [Xontribs](https://xon.sh/xontribs.html) - The list of awesome xonsh extensions
+  that makes work faster and beautify the prompt.
+- [xxh](https://github.com/xxh/xxh) - Using xonsh wherever you go through the ssh.
+
 #### Zsh
 Install the latest version and set as current user's default shell:
 ```sh
